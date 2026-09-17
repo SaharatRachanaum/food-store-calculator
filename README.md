@@ -1,3 +1,5 @@
+# Food Store Calculator API
+
 Food Store Price Calculator implemented in Go following Clean Architecture principles (cmd -> handler -> service -> model).
 
 ## Project Structure
